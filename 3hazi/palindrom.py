@@ -19,6 +19,7 @@ def rekurziv(szoveg, kezd, veg):
 
 def main():
     szo = "abba"
+    print("Szó: " + szo)
     if (iterativ(szo)):
         print("Iterativ: igaz")
     else:

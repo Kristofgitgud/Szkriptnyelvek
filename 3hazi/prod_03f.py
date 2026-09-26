@@ -6,6 +6,7 @@ def product(numbers):
 
 def main():
     szamok = [1, 2, 3, 1, 1]
+    print(szamok)
     print(product(szamok))
 
 if __name__ == "__main__":
